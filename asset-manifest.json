@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5030ac5.css",
-    "main.js": "/static/js/main.60db46b3.js",
-    "static/media/co1.jpg": "/static/media/co1.477f8243af476c1bb2aa.jpg",
-    "static/media/doctorlogin.png": "/static/media/doctorlogin.d0c91dedfbb68a4f608d.png",
-    "static/media/co2.jpg": "/static/media/co2.26b1b9dedd4305767712.jpg",
-    "static/media/co4.jpg": "/static/media/co4.853749c4e76604e20433.jpg",
-    "static/media/doctor.jpg": "/static/media/doctor.07d646729362e051b6b3.jpg",
-    "static/media/navbaricon1.png": "/static/media/navbaricon1.ec6dddc7370757272a3e.png",
-    "static/media/patientlogin.png": "/static/media/patientlogin.c45f33b8bc5cbc3809ea.png",
-    "index.html": "/index.html",
-    "main.a5030ac5.css.map": "/static/css/main.a5030ac5.css.map",
-    "main.60db46b3.js.map": "/static/js/main.60db46b3.js.map"
+    "main.css": "/Ayala-crea/frontend_HospitalManajemen_QA/static/css/main.a5030ac5.css",
+    "main.js": "/Ayala-crea/frontend_HospitalManajemen_QA/static/js/main.3721282b.js",
+    "static/media/co1.jpg": "/Ayala-crea/frontend_HospitalManajemen_QA/static/media/co1.477f8243af476c1bb2aa.jpg",
+    "static/media/doctorlogin.png": "/Ayala-crea/frontend_HospitalManajemen_QA/static/media/doctorlogin.d0c91dedfbb68a4f608d.png",
+    "static/media/co2.jpg": "/Ayala-crea/frontend_HospitalManajemen_QA/static/media/co2.26b1b9dedd4305767712.jpg",
+    "static/media/co4.jpg": "/Ayala-crea/frontend_HospitalManajemen_QA/static/media/co4.853749c4e76604e20433.jpg",
+    "static/media/doctor.jpg": "/Ayala-crea/frontend_HospitalManajemen_QA/static/media/doctor.07d646729362e051b6b3.jpg",
+    "static/media/navbaricon1.png": "/Ayala-crea/frontend_HospitalManajemen_QA/static/media/navbaricon1.ec6dddc7370757272a3e.png",
+    "static/media/patientlogin.png": "/Ayala-crea/frontend_HospitalManajemen_QA/static/media/patientlogin.c45f33b8bc5cbc3809ea.png",
+    "index.html": "/Ayala-crea/frontend_HospitalManajemen_QA/index.html",
+    "main.a5030ac5.css.map": "/Ayala-crea/frontend_HospitalManajemen_QA/static/css/main.a5030ac5.css.map",
+    "main.3721282b.js.map": "/Ayala-crea/frontend_HospitalManajemen_QA/static/js/main.3721282b.js.map"
   },
   "entrypoints": [
     "static/css/main.a5030ac5.css",
-    "static/js/main.60db46b3.js"
+    "static/js/main.3721282b.js"
   ]
 }
